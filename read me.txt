@@ -1,0 +1,18 @@
+For accessing the app using streamlit, Enter streamlit run sidebar.py
+
+Once opened, the user can take following steps:
+- Enter the ticker of your choice.
+- Select the type of price you want to predict
+- Check Raw Data box to see top rows of data
+- Select the Rolling period to see the moving average
+- Use slider to change the number of years.
+- Check Show news Data to see top rows of news data.
+
+From Menu select News Sentiments
+- Select the ticker to see News Sentiments.
+
+From menu select Twitter Analysis.
+- Enter the hashtag and date values to see the sentiments.
+
+From menu select Forecast:
+- Enter the price type and ticker to see forecast for next 30 days.
